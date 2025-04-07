@@ -1,0 +1,45 @@
+jackson@pop-desktop:~/Lasers$ python abcd.py 
+Choose an option:
+1. Propagation
+2. Thin lens
+Your choice: 1
+Enter the length L of the free space: 5
+Excellent! I've just added your matrix.
+Do you want to add another ABCD matrix?
+1. Yes
+2. No
+Your choice: 1
+Choose an option:
+1. Propagation
+2. Thin lens
+Your choice: 2
+Enter the focal length f of the lens: .5
+Excellent! I've just added your matrix.
+Do you want to add another ABCD matrix?
+1. Yes
+2. No
+Your choice: 1
+Choose an option:
+1. Propagation
+2. Thin lens
+Your choice: 1
+Enter the length L of the free space: 5
+Excellent! I've just added your matrix.
+Do you want to add another ABCD matrix?
+1. Yes
+2. No
+Your choice: 2
+Here are your shiny new ABCD matrices!
+[ 1 5.0 ]
+[ 0 1 ]
+-----
+[ 1 0 ]
+[ -2.0 1 ]
+-----
+[ 1 5.0 ]
+[ 0 1 ]
+-----
+Here's all your matrices multiplied together!
+[ -9.0 -40.0 ]
+[ -2.0 -9.0 ]
+jackson@pop-desktop:~/Lasers$
